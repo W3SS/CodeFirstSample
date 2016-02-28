@@ -6,10 +6,13 @@ ASP.NET 5 + MVC 6  + EF 7 CodeFirst Approach Sample
 - ASP.NET Web Application
 - Under ASP.NET 5 Preview Templates select Web Application
 - Select ''No Authentication''
+
 ## EF Packages and Command Added
 - Project.json file updated to add EF nuget packages and command
+
 ## README.md updated
 - This file updated
+
 ## Models Created
 - Models Folder Created
 - DBContext Created in Model.cs 
